@@ -1,5 +1,5 @@
 # SQL-India-loksabha-elections-2024-ANALYSIS
-Introduction
+#Introduction
 The 2024 Lok Sabha Elections SQL Project was a data-driven initiative aimed at analyzing diverse aspects of the Indian general elections held in 2024. This project utilized SQL to extract insights from a comprehensive dataset comprising voter demographics, election results, constituency details, and party performance. The primary objective was to create an accessible and analytical view of the election dynamics, enabling better understanding and decision-making for researchers, policymakers, and political enthusiasts.
 
 The project focused on solving real-world problems by leveraging the power of structured query language (SQL) for data manipulation, cleaning, and analysis. It served as a testament to how data analytics can shed light on electoral trends and patterns, offering a rich learning experience in handling real-world datasets.
